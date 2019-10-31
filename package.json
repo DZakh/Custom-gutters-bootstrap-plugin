@@ -1,7 +1,7 @@
 {
   "name": "custom-gutters-bootstrap-plugin",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Setup your own gutter widths for different screen breakpoints with this very simple plugin",
   "main": "index.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/DZakh/Custom-gutters-bootstrap-plugin.git"
   },
-  "keywords": [],
+  "keywords": ["scss", "sass", "bootstrap", "plugin", "gutters", "custom", "grid-gutter-width"],
   "author": "Dmitry Zakh <dzakh.dev@gmail.com> (https://dzakh.dev/)",
   "license": "MIT",
   "bugs": {
