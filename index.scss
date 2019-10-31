@@ -1,14 +1,7 @@
-/* Add after importing Bootstrap styles */
-
-
 $grid-gutter-widths: (
-  xs: 10px,
-  md: 20px,
-  lg: 30px
-);
+  xs: 30px
+) !default;
 
-
-/* You shouldn't change this part */
 @each $grid-breakpoint, $grid-gutter-width in $grid-gutter-widths {
   @include media-breakpoint-up($grid-breakpoint) {
     $grid-gutter-half-width: $grid-gutter-width / 2;

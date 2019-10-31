@@ -1,0 +1,20 @@
+{
+  "name": "custom-gutters-bootstrap-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DZakh/Custom-gutters-bootstrap-plugin.git"
+  },
+  "keywords": [],
+  "author": "Dmitry Zakh <dzakh.dev@gmail.com> (https://dzakh.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DZakh/Custom-gutters-bootstrap-plugin/issues"
+  },
+  "homepage": "https://github.com/DZakh/Custom-gutters-bootstrap-plugin#readme"
+}
