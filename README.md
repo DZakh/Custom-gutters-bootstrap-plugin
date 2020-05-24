@@ -1,6 +1,6 @@
 # Custom gutters bootstrap-plugin
 
-The very simple plugin gives you a possibility to setup your own gutter widths for different screen breakpoints.
+The very minimalistic plugin gives you a possibility to setup your own gutter widths for different screen breakpoints.
 
 ## Why?
 
