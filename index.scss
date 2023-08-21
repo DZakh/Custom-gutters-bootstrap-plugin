@@ -1,10 +1,10 @@
 $grid-gutter-widths: (
-  xs: 30px
+  xs: 30px,
 ) !default;
 
 @each $grid-breakpoint, $grid-gutter-width in $grid-gutter-widths {
   @include media-breakpoint-up($grid-breakpoint) {
-    $grid-gutter-half-width: $grid-gutter-width / 2;
+    $grid-gutter-half-width: calc($grid-gutter-width / 2);
     .row:not(.no-gutters) {
       margin-right: -$grid-gutter-half-width;
       margin-left: -$grid-gutter-half-width;
